@@ -6,7 +6,7 @@ I have a keen interest in designing and engineering web applications and mobile 
 - 📫 How to reach me: bdaza04@gmail.com
                        www.linkedin.com/in/brian-daza
 - 🔭 I’m currently working on HANABI GO, an AI powered website catered to give recommendations and find Japanese fireworks festivals for tourists.
-- 🌱 I’m also currently learning databases, backend development, and modern front-end frameworks such as Angular.
+- 🌱 I’m also currently learning databases, backend development, and modern front-end frameworks such as NextJS.
 <!--
 **bdaza3/bdaza3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
