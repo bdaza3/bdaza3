@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Brian! 👋<br>I'm currently a CS undergraduate at the University of Illinois Chicago, and I'm currently working on developing my skills in front-end development and frameworks. I have a keen interest in designing and engineering web applications and mobile apps, as well as delving into some software engineering.<br><br>📫 How to reach me: bdaza04@gmail.com www.linkedin.com/in/brian-daza<br>🔭 I’m currently working as an intern for a B2B SaaS company called Milly Inc, headquartered in Tokyo, Japan. <br>🌱 I’m also currently learning databases, web and data api's, and working with modern front-end frameworks such as NextJS and VueJS.
+Hello, I'm Brian! 👋<br>I'm currently a CS undergraduate at the University of Illinois Chicago, and I'm currently working on developing my skills in front-end development and frameworks. I have a keen interest in designing and engineering web applications and mobile apps, as well as delving into some software engineering.<br><br>📫 How to reach me: bdaza04@gmail.com www.linkedin.com/in/brian-daza<br><br>🌱 I’m also currently learning databases, web and data api's, and working with modern front-end frameworks such as NextJS and VueJS.
 
 
 ## 🌐 Socials:
