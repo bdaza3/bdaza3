@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Brian! 👋<br>I'm currently a CS undergraduate at the University of Illinois Chicago, and I'm working on developing my skills in full-stack web development. I primarily have experience in designing and developing web-based applications, as well as some software engineering and project management.<br><br>📫 How to reach me: bdaza04@gmail.com www.linkedin.com/in/brian-daza<br><br>🌱 I’m also currently brushing up on databases, web and data api's, and working with modern front-end frameworks such as NextJS and VueJS.
+Hello, I'm Brian! 👋<br>I'm currently a CS undergraduate at the University of Illinois Chicago, and I'm working on developing my skills in full-stack web development. I primarily have experience in designing and developing web-based applications, as well as some software engineering and project management.<br><br>📫 How to reach me: bdaza04@gmail.com www.linkedin.com/in/brian-daza<br><br>🌱 I'm currently working on Shiftly (シフトリ), a shift management web and app product aiming to promote, digitize, and improve management employee shift management and communication in workplaces. 
 
 
 ## 🌐 Socials:
