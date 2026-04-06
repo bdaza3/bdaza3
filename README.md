@@ -2,7 +2,7 @@
 <br>[日本語はこちらです。](README.ja.md)
 ## 👋 About me:
 I'm a Computer Science undergraduate at the University of Illinois Chicago, focused on building scalable and user-friendly full-stack web applications. I have hands-on experience in designing, developing, and managing web-based projects, with an interest in creating practical tools that improve real-world workflows.<br>
-<br>🌱 I'm currently working on Shiftly, a shift management web and mobile application designed to streamline scheduling and improve communication within within teams and organizations.
+<br>🌱 I'm currently working on Shiftly, a shift management web and mobile application designed to streamline scheduling and improve communication within teams and organizations.
 
 ## 💻 Tech:
 ### Frontend: ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
