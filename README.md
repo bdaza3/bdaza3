@@ -3,6 +3,7 @@
 ## 👋 About me:
 I'm a Computer Science undergraduate at the University of Illinois Chicago, focused on building scalable and user-friendly full-stack web applications. I have hands-on experience in designing, developing, and managing web-based projects, with an interest in creating practical tools that improve real-world workflows.<br>
 <br>🌱 I'm currently working on Shiftly, a shift management web and mobile application designed to streamline scheduling and improve communication within teams and organizations.
+<br><br>📍 Based in Chicago, Illinois
 
 ## 💻 Tech:
 ### Frontend: ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -13,8 +14,6 @@ I'm a Computer Science undergraduate at the University of Illinois Chicago, focu
 
 ## 📫 How to reach me:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bdaza04@gmail.com) bdaza04@gmail.com <br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brian-daza) www.linkedin.com/in/brian-daza
-<br><br>📍 Based in Chicago, Illinois
-
 
 [![](https://visitcount.itsvg.in/api?id=bdaza3&icon=0&color=0)](https://visitcount.itsvg.in)
 
