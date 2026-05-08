@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=F7F7F7&width=450&lines=hello%2C+i'm+brian!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81%E3%83%96%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82)](https://git.io/typing-svg)
 <br>[日本語はこちらです。](README.ja.md)
 ## 👋 About me:
-I'm a Computer Science undergraduate at the University of Illinois Chicago, focused on building scalable and user-friendly full-stack web applications. I have hands-on experience in designing, developing, and managing web-based projects, with an interest in creating practical tools that improve real-world workflows.<br>
+I'm a full-stack web developer, focused on building scalable and user-friendly full-stack web applications. I have hands-on experience in designing, developing, and managing web-based projects, with an interest in creating practical tools that improve real-world workflows.<br>
 <br>🌱 I'm currently working on Shiftly, a shift management web and mobile application designed to streamline scheduling and improve communication within teams and organizations.
 <br><br>📍 Based in Chicago, Illinois
 
