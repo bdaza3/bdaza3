@@ -13,7 +13,10 @@ I'm a full-stack web developer, focused on building scalable and user-friendly f
 ### Cloud/Other: ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## 📫 How to reach me:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bdaza04@gmail.com) bdaza04@gmail.com <br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brian-daza) www.linkedin.com/in/brian-daza
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bdaza04@gmail.com) brianjdaza@gmail.com <br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brian-daza) www.linkedin.com/in/brian-daza
+
+See my website & portfolio here: 
+https://bdaza3.github.io/
 
 [![](https://visitcount.itsvg.in/api?id=bdaza3&icon=0&color=0)](https://visitcount.itsvg.in)
 
